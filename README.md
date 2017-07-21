@@ -9,3 +9,4 @@ npm install
 ```
 
 Para poder instalar todas las dependencias del proyecto.
+Base de datos en model/script .sql
